@@ -24,19 +24,16 @@ This repository contains a physics-based simulation of a **Single Particle Model
 - Grid/time step sensitivity tools
 
 ## 📊 Validation
-The model results are validated against the corrected Single Particle Model (cSPM) from the following paper:
+The model results are validated against the SPM from the following paper:
 
-> **Richardson, R. R., Ireland, J., & Howey, D. A.**  
-> *Battery parameter estimation using a single particle model with electrolyte and thermal dynamics*.  
-> Journal of Power Sources, 456, 227997 (2020).  
+> **Richardson, G. et al.**  
+> *Generalised single particle models for high-rate operation of graded lithium-ion electrodes: Systematic derivation and validation*.  
+> Electrochimica Acta, 339, 135862 (2020).  
 > [Link to paper](https://www.sciencedirect.com/science/article/pii/S0013468620302541)
-
-Comparison is performed by interpolating the reference voltage data and computing RMSE.
 
 ## 🧪 Example Output
 - Time-evolving lithium concentration profiles
 - Voltage vs. time plots
-- RMSE between simulated and benchmark data
 
 ## 🧰 Requirements
 ```bash
