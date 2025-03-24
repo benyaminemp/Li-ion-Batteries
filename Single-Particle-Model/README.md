@@ -1,7 +1,7 @@
 # Single Particle Model for Li-ion Battery (Cathode Half-Cell)
 
 ## 🔋 Overview
-This repository contains a physics-based simulation of a **Single Particle Model (SPM)** applied to a **Li(Ni₀.₄Co₀.₆)O₂ (LNC)** cathode half-cell. The model is implemented using the **Finite Volume Method (FVM)** to numerically solve the solid-phase diffusion PDE, and is validated against experimental-style data extracted from the cSPM model by *Richardson et al.* ([paper link](https://www.sciencedirect.com/science/article/pii/S0013468620302541)).
+This repository contains a physics-based simulation of a **Single Particle Model (SPM)** applied to a **Li(Ni₀.₄Co₀.₆)O₂ (LNC)** cathode half-cell. The model is implemented using the **Finite Volume Method (FVM)** to numerically solve the solid-phase diffusion PDE, and is validated against experimental-style data extracted from the SPM model by *Richardson et al.* ([paper link](https://www.sciencedirect.com/science/article/pii/S0013468620302541)).
 
 ## 📁 Project Structure
 | File / Folder        | Description |
