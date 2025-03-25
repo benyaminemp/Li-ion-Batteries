@@ -31,9 +31,9 @@ This implementation provides enhanced accuracy over the classical SPM by includi
 ## 📊 Validation
 The model results are validated against the **cSPM paper by Richardson et al.**:
 
-> **Richardson, R. R., Ireland, J., & Howey, D. A.**  
-> *Battery parameter estimation using a single particle model with electrolyte and thermal dynamics*.  
-> Journal of Power Sources, 456, 227997 (2020).  
+> **Richardson, G. et al.**  
+> *Generalised single particle models for high-rate operation of graded lithium-ion electrodes: Systematic derivation and validation*.  
+> Electrochimica Acta, 339, 135862 (2020).  
 > [Link to paper](https://www.sciencedirect.com/science/article/pii/S0013468620302541)
 
 Validation includes:
