@@ -1,7 +1,7 @@
 # Corrected Single Particle Model (cSPM) for Li-ion Battery – Cathode Half-Cell
 
 ## 🔋 Overview
-This repository contains a physics-informed simulation of a **corrected Single Particle Model (cSPM)** for a **Li(Ni₀.₄Co₀.₆)O₂ (LNC)** cathode half-cell. The model incorporates **electrolyte dynamics** into the traditional SPM framework and is solved using the **Finite Volume Method (FVM)** for both solid-phase and electrolyte equations.
+This repository contains a **corrected Single Particle Model (cSPM)** for a **Li(Ni₀.₄Co₀.₆)O₂ (LNC)** cathode half-cell. The model incorporates **electrolyte dynamics** into the traditional SPM framework and is solved using the **Finite Volume Method (FVM)** for both solid-phase and electrolyte equations.
 
 This implementation provides enhanced accuracy over the classical SPM by including:
 - Ionic concentration dynamics in the electrolyte
