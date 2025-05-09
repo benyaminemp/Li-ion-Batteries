@@ -11,6 +11,10 @@ A simplified electrochemical model for Li-ion batteries that captures essential 
 ### 🔹 Corrected Single Particle Model (cSPM)
 An enhanced version of the SPM with corrections to better handle blended electrodes and specific physics-informed refinements developed as part of my research.
 
+### 🔹 Battery Thermal Model
+
+This repository contains a Python implementation of a 1D radial-spiral thermal model for a lithium-ion battery on Modelling Heat Conduction in Spiral Geometries. The model simplifies the 2D energy balance equation to a 1D radial-spiral model using a coordinate transformation technique.
+
 ### 🔹 Multi-Layer Perceptron (MLP) for Battery Prediction
 A simple feedforward neural network implementation for battery-related predictive tasks such as state estimation or capacity forecasting.
 
